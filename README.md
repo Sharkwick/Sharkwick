@@ -2,7 +2,7 @@
 <h3 align="center">a.k.a. <a href="https://github.com/Sharkwick">@Sharkwick</a> — Excel nerd turned data nerd 🦈</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Turning+data-->+Stories 📊;Automating+the+boring+stuff+since+forever 🤖;leveling+up+in+Data+Science 🔬;finance's+resident+Excel+wizard 🧙‍♂️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Turning+data+%E2%9E%A1+Stories+%F0%9F%93%8A;Automating+the+boring+stuff+since+forever+%F0%9F%A4%96;Leveling+up+in+Data+Science+%F0%9F%94%AC;Finance%27s+resident+Excel+wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
