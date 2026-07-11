@@ -36,7 +36,8 @@
 
 <p align="center">finance_analyst.exe → excel_wizard.exe → data_curious.exe → Sharkwick.init()</p>
 <p align="center">
-  <em>"Every <code>VLOOKUP</code> was secretly begging to become a <code>groupby()</code>."</em>
+  <em>"Every <code>VLOOKUP</code> was secretly begging to become a <code>groupby()</code>."</em><br/>
+  <sub>— probably every finance analyst, eventually</sub>
 </p>
 
 ---
