@@ -35,7 +35,9 @@
 <h2 align="center">🐙 From Excel Cells to Git Commits</h2>
 
 <p align="center">finance_analyst.exe → excel_wizard.exe → data_curious.exe → Sharkwick.init()</p>
-<p align="center">Every VLOOKUP was secretly begging to become a groupby()</p>
+<p align="center">
+  <em>"Every <code>VLOOKUP</code> was secretly begging to become a <code>groupby()</code>."</em>
+</p>
 
 ---
 
