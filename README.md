@@ -30,9 +30,10 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### 🐙 From Excel Cells to Git Commits
+---
+<h2 align="center">🐙 From Excel Cells to Git Commits</h2>
 
-finance_analyst.exe → excel_wizard.exe → data_curious.exe → Sharkwick.init()
+<p align="center">finance_analyst.exe → excel_wizard.exe → data_curious.exe → Sharkwick.init()</p>
 
 > "Every VLOOKUP was secretly begging to become a `groupby()`."
 
