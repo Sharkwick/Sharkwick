@@ -35,7 +35,7 @@
 
 <p align="center">finance_analyst.exe → excel_wizard.exe → data_curious.exe → Sharkwick.init()</p>
 
-> "Every VLOOKUP was secretly begging to become a `groupby()`."
+<p align="center>"> "Every VLOOKUP was secretly begging to become a `groupby()`""</p>
 
 ---
 
